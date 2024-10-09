@@ -1,4 +1,4 @@
-export TARGET = iphone:clang:16.5:14.0
+export TARGET = iphone:clang:16.5:12.0
 include $(THEOS)/makefiles/common.mk
 
 LIBRARY_NAME = libcolorpicker
